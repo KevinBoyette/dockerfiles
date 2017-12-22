@@ -146,3 +146,4 @@ performance-signature-viewer
 job-dsl
 ghprb
 python-wrapper
+tap
