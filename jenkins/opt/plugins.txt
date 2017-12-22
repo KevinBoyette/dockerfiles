@@ -147,3 +147,4 @@ job-dsl
 ghprb
 python-wrapper
 tap
+multiple-scms
