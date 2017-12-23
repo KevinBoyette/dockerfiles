@@ -148,3 +148,4 @@ ghprb
 python-wrapper
 tap
 multiple-scms
+ansicolor
